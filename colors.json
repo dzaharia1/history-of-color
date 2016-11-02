@@ -1,0 +1,782 @@
+[
+  {
+    "word": "alabaster",
+    "hex": ""
+  },
+  {
+    "word": "apricot",
+    "hex": ""
+  },
+  {
+    "word": "aqua",
+    "hex": ""
+  },
+  {
+    "word": "aquamarine",
+    "hex": ""
+  },
+  {
+    "word": "ash gray",
+    "hex": ""
+  },
+  {
+    "word": "azure",
+    "hex": ""
+  },
+  {
+    "word": "beige",
+    "hex": ""
+  },
+  {
+    "word": "black",
+    "hex": ""
+  },
+  {
+    "word": "blond",
+    "hex": ""
+  },
+  {
+    "word": "blue",
+    "hex": ""
+  },
+  {
+    "word": "blue green",
+    "hex": ""
+  },
+  {
+    "word": "blush",
+    "hex": ""
+  },
+  {
+    "word": "bone",
+    "hex": ""
+  },
+  {
+    "word": "bottle green",
+    "hex": ""
+  },
+  {
+    "word": "brick red",
+    "hex": ""
+  },
+  {
+    "word": "bronze",
+    "hex": ""
+  },
+  {
+    "word": "brown",
+    "hex": ""
+  },
+  {
+    "word": "brownish yellow",
+    "hex": ""
+  },
+  {
+    "word": "burnt sienna",
+    "hex": ""
+  },
+  {
+    "word": "burgundy",
+    "hex": ""
+  },
+  {
+    "word": "buff",
+    "hex": ""
+  },
+  {
+    "word": "burnt umber",
+    "hex": ""
+  },
+  {
+    "word": "cadmium orange",
+    "hex": ""
+  },
+  {
+    "word": "cadmium yellow",
+    "hex": ""
+  },
+  {
+    "word": "cadmium yellow pale",
+    "hex": ""
+  },
+  {
+    "word": "canary",
+    "hex": ""
+  },
+  {
+    "word": "caramel",
+    "hex": ""
+  },
+  {
+    "word": "cardinal",
+    "hex": ""
+  },
+  {
+    "word": "carmine",
+    "hex": ""
+  },
+  {
+    "word": "carnation",
+    "hex": ""
+  },
+  {
+    "word": "cerise",
+    "hex": ""
+  },
+  {
+    "word": "cerulean",
+    "hex": ""
+  },
+  {
+    "word": "chalk",
+    "hex": ""
+  },
+  {
+    "word": "charcoal",
+    "hex": ""
+  },
+  {
+    "word": "cherry",
+    "hex": ""
+  },
+  {
+    "word": "chestnut",
+    "hex": ""
+  },
+  {
+    "word": "chocolate",
+    "hex": ""
+  },
+  {
+    "word": "chrome green",
+    "hex": ""
+  },
+  {
+    "word": "chrome red",
+    "hex": ""
+  },
+  {
+    "word": "chrome yellow",
+    "hex": ""
+  },
+  {
+    "word": "claret",
+    "hex": ""
+  },
+  {
+    "word": "coal black",
+    "hex": ""
+  },
+  {
+    "word": "cobalt blue",
+    "hex": ""
+  },
+  {
+    "word": "cobalt ultramarine",
+    "hex": ""
+  },
+  {
+    "word": "coffee",
+    "hex": ""
+  },
+  {
+    "word": "copper",
+    "hex": ""
+  },
+  {
+    "word": "coral",
+    "hex": ""
+  },
+  {
+    "word": "crimson",
+    "hex": ""
+  },
+  {
+    "word": "dapple-gray",
+    "hex": ""
+  },
+  {
+    "word": "dark blue",
+    "hex": ""
+  },
+  {
+    "word": "dark red",
+    "hex": ""
+  },
+  {
+    "word": "Davy\"s gray",
+    "hex": ""
+  },
+  {
+    "word": "deep brown",
+    "hex": ""
+  },
+  {
+    "word": "deep red",
+    "hex": ""
+  },
+  {
+    "word": "dithered color",
+    "hex": ""
+  },
+  {
+    "word": "drab",
+    "hex": ""
+  },
+  {
+    "word": "dun",
+    "hex": ""
+  },
+  {
+    "word": "ebony",
+    "hex": ""
+  },
+  {
+    "word": "ecru",
+    "hex": ""
+  },
+  {
+    "word": "emerald",
+    "hex": ""
+  },
+  {
+    "word": "fawn",
+    "hex": ""
+  },
+  {
+    "word": "French blue",
+    "hex": ""
+  },
+  {
+    "word": "French ultramarine",
+    "hex": ""
+  },
+  {
+    "word": "frostiness",
+    "hex": ""
+  },
+  {
+    "word": "fuchsia",
+    "hex": ""
+  },
+  {
+    "word": "gamboge",
+    "hex": ""
+  },
+  {
+    "word": "gold",
+    "hex": ""
+  },
+  {
+    "word": "gray",
+    "hex": ""
+  },
+  {
+    "word": "grayish brown",
+    "hex": ""
+  },
+  {
+    "word": "green",
+    "hex": ""
+  },
+  {
+    "word": "greenish blue",
+    "hex": ""
+  },
+  {
+    "word": "greenish yellow",
+    "hex": ""
+  },
+  {
+    "word": "hazel",
+    "hex": ""
+  },
+  {
+    "word": "heather",
+    "hex": ""
+  },
+  {
+    "word": "henna",
+    "hex": ""
+  },
+  {
+    "word": "hoariness",
+    "hex": ""
+  },
+  {
+    "word": "Hooker\"s green",
+    "hex": ""
+  },
+  {
+    "word": "Indian red",
+    "hex": ""
+  },
+  {
+    "word": "indigo",
+    "hex": ""
+  },
+  {
+    "word": "iron blue",
+    "hex": ""
+  },
+  {
+    "word": "iron-gray",
+    "hex": ""
+  },
+  {
+    "word": "ivory",
+    "hex": ""
+  },
+  {
+    "word": "ivory black",
+    "hex": ""
+  },
+  {
+    "word": "jade",
+    "hex": ""
+  },
+  {
+    "word": "jade green",
+    "hex": ""
+  },
+  {
+    "word": "jet black",
+    "hex": ""
+  },
+  {
+    "word": "Kendal green",
+    "hex": ""
+  },
+  {
+    "word": "lake",
+    "hex": ""
+  },
+  {
+    "word": "lac dye",
+    "hex": ""
+  },
+  {
+    "word": "lavender",
+    "hex": ""
+  },
+  {
+    "word": "lazuline",
+    "hex": ""
+  },
+  {
+    "word": "lemon",
+    "hex": ""
+  },
+  {
+    "word": "light brown",
+    "hex": ""
+  },
+  {
+    "word": "magenta",
+    "hex": ""
+  },
+  {
+    "word": "mahogany",
+    "hex": ""
+  },
+  {
+    "word": "maize",
+    "hex": ""
+  },
+  {
+    "word": "marble",
+    "hex": ""
+  },
+  {
+    "word": "maroon",
+    "hex": ""
+  },
+  {
+    "word": "mauve",
+    "hex": ""
+  },
+  {
+    "word": "mocha",
+    "hex": ""
+  },
+  {
+    "word": "mosaic gold",
+    "hex": ""
+  },
+  {
+    "word": "mottle",
+    "hex": ""
+  },
+  {
+    "word": "navy",
+    "hex": ""
+  },
+  {
+    "word": "navy blue",
+    "hex": ""
+  },
+  {
+    "word": "ocher",
+    "hex": ""
+  },
+  {
+    "word": "off-white",
+    "hex": ""
+  },
+  {
+    "word": "old gold",
+    "hex": ""
+  },
+  {
+    "word": "old rose",
+    "hex": ""
+  },
+  {
+    "word": "olive",
+    "hex": ""
+  },
+  {
+    "word": "olive brown",
+    "hex": ""
+  },
+  {
+    "word": "olive drab",
+    "hex": ""
+  },
+  {
+    "word": "olive green",
+    "hex": ""
+  },
+  {
+    "word": "orange",
+    "hex": ""
+  },
+  {
+    "word": "orange red",
+    "hex": ""
+  },
+  {
+    "word": "orange yellow",
+    "hex": ""
+  },
+  {
+    "word": "oxblood red",
+    "hex": ""
+  },
+  {
+    "word": "oxford gray",
+    "hex": ""
+  },
+  {
+    "word": "pale yellow",
+    "hex": ""
+  },
+  {
+    "word": "Paris green",
+    "hex": ""
+  },
+  {
+    "word": "pastel",
+    "hex": ""
+  },
+  {
+    "word": "Payne\"s gray",
+    "hex": ""
+  },
+  {
+    "word": "peach",
+    "hex": ""
+  },
+  {
+    "word": "peacock blue",
+    "hex": ""
+  },
+  {
+    "word": "pea green",
+    "hex": ""
+  },
+  {
+    "word": "pearl",
+    "hex": ""
+  },
+  {
+    "word": "peroxide",
+    "hex": ""
+  },
+  {
+    "word": "pitch black",
+    "hex": ""
+  },
+  {
+    "word": "pink",
+    "hex": ""
+  },
+  {
+    "word": "powder blue",
+    "hex": ""
+  },
+  {
+    "word": "Prussian blue",
+    "hex": ""
+  },
+  {
+    "word": "puce",
+    "hex": ""
+  },
+  {
+    "word": "purple",
+    "hex": ""
+  },
+  {
+    "word": "purplish blue",
+    "hex": ""
+  },
+  {
+    "word": "purplish pink",
+    "hex": ""
+  },
+  {
+    "word": "purplish red",
+    "hex": ""
+  },
+  {
+    "word": "raw sienna",
+    "hex": ""
+  },
+  {
+    "word": "raw umber",
+    "hex": ""
+  },
+  {
+    "word": "red",
+    "hex": ""
+  },
+  {
+    "word": "reddish blue",
+    "hex": ""
+  },
+  {
+    "word": "reddish brown",
+    "hex": ""
+  },
+  {
+    "word": "reddish orange",
+    "hex": ""
+  },
+  {
+    "word": "reddish purple",
+    "hex": ""
+  },
+  {
+    "word": "rosiness",
+    "hex": ""
+  },
+  {
+    "word": "royal blue",
+    "hex": ""
+  },
+  {
+    "word": "royal purple",
+    "hex": ""
+  },
+  {
+    "word": "ruddiness",
+    "hex": ""
+  },
+  {
+    "word": "sable",
+    "hex": ""
+  },
+  {
+    "word": "saffron",
+    "hex": ""
+  },
+  {
+    "word": "sage green",
+    "hex": ""
+  },
+  {
+    "word": "salmon",
+    "hex": ""
+  },
+  {
+    "word": "sanguine",
+    "hex": ""
+  },
+  {
+    "word": "sapphire",
+    "hex": ""
+  },
+  {
+    "word": "scarlet",
+    "hex": ""
+  },
+  {
+    "word": "sea green",
+    "hex": ""
+  },
+  {
+    "word": "sepia",
+    "hex": ""
+  },
+  {
+    "word": "sienna",
+    "hex": ""
+  },
+  {
+    "word": "silver",
+    "hex": ""
+  },
+  {
+    "word": "silver gray",
+    "hex": ""
+  },
+  {
+    "word": "sky-blue",
+    "hex": ""
+  },
+  {
+    "word": "snuff-color",
+    "hex": ""
+  },
+  {
+    "word": "soot black",
+    "hex": ""
+  },
+  {
+    "word": "steel blue",
+    "hex": ""
+  },
+  {
+    "word": "steel gray",
+    "hex": ""
+  },
+  {
+    "word": "straw",
+    "hex": ""
+  },
+  {
+    "word": "tan",
+    "hex": ""
+  },
+  {
+    "word": "tangerine",
+    "hex": ""
+  },
+  {
+    "word": "tattletale gray",
+    "hex": ""
+  },
+  {
+    "word": "taupe",
+    "hex": ""
+  },
+  {
+    "word": "tawniness",
+    "hex": ""
+  },
+  {
+    "word": "teal",
+    "hex": ""
+  },
+  {
+    "word": "tie-dye",
+    "hex": ""
+  },
+  {
+    "word": "topaz",
+    "hex": ""
+  },
+  {
+    "word": "Turkey red",
+    "hex": ""
+  },
+  {
+    "word": "turquoise",
+    "hex": ""
+  },
+  {
+    "word": "Tyrian purple",
+    "hex": ""
+  },
+  {
+    "word": "ultramarine",
+    "hex": ""
+  },
+  {
+    "word": "umber",
+    "hex": ""
+  },
+  {
+    "word": "Vandyke brown",
+    "hex": ""
+  },
+  {
+    "word": "Venetian red",
+    "hex": ""
+  },
+  {
+    "word": "verdigris",
+    "hex": ""
+  },
+  {
+    "word": "vermilion",
+    "hex": ""
+  },
+  {
+    "word": "violet",
+    "hex": ""
+  },
+  {
+    "word": "viridity",
+    "hex": ""
+  },
+  {
+    "word": "wheat",
+    "hex": ""
+  },
+  {
+    "word": "white",
+    "hex": ""
+  },
+  {
+    "word": "Windsor green",
+    "hex": ""
+  },
+  {
+    "word": "wine",
+    "hex": ""
+  },
+  {
+    "word": "yellow",
+    "hex": ""
+  },
+  {
+    "word": "yellow green",
+    "hex": ""
+  },
+  {
+    "word": "yellowish brown",
+    "hex": ""
+  },
+  {
+    "word": "yellowish green",
+    "hex": ""
+  },
+  {
+    "word": "yellowish pink",
+    "hex": ""
+  },
+  {
+    "word": "yellow ocher",
+    "hex": ""
+  },
+  {
+    "word": "zinc white",
+    "hex": ""
+  },
+  {
+    "word": "orchil",
+    "hex": ""
+  }
+];

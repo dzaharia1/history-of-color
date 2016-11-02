@@ -1,0 +1,191 @@
+[
+  {
+    "name": "The Upanishads",
+    "slug": "theupanishads",
+    "author": "",
+    "year": "-650",
+    "genre": "",
+    "length": "",
+    "originalLangauge": ""
+  },
+  {
+    "name": "The Quran",
+    "slug": "quran",
+    "author": "",
+    "year": "601",
+    "genre": "",
+    "length": "",
+    "originalLangauge": "Ancient Arabic"
+  },
+  {
+    "name": "On The Nature of Things",
+    "slug": "onthenatureofthings",
+    "author": "Lucretius",
+    "year": "-56",
+    "genre": "",
+    "length": "",
+    "originalLangauge": "Greek"
+  },
+  {
+    "name": "The Iliad",
+    "slug": "iliad",
+    "author": "Homer",
+    "year": "-800",
+    "genre": "",
+    "length": "",
+    "originalLangauge": "Greek"
+  },
+  {
+    "name": "The Odyssey",
+    "slug": "theodyssey",
+    "author": "Homer",
+    "year": "-800",
+    "genre": "",
+    "length": "",
+    "originalLangauge": "Greek"
+  },
+  {
+    "name": "The King James Bible",
+    "slug": "kingjamesbible",
+    "author": "",
+    "year": "",
+    "genre": "",
+    "length": "",
+    "originalLangauge": ""
+  },
+  {
+    "name": "The Epic of Gilgamesh",
+    "slug": "gilgamesh",
+    "author": "",
+    "year": "-2100",
+    "genre": "",
+    "length": "",
+    "originalLangauge": "Sumerian Cuneiform"
+  },
+  {
+    "name": "Don Quixote",
+    "slug": "donquixote",
+    "author": "Miguel de Cervantes",
+    "year": "1605",
+    "genre": "",
+    "length": "",
+    "originalLangauge": "Spanish"
+  },
+  {
+    "name": "Enmerkar and the Lord of Aratta",
+    "slug": "enmerkaandthelordofaratta",
+    "author": "",
+    "year": "-2100",
+    "genre": "",
+    "length": "",
+    "originalLangauge": ""
+  },
+  {
+    "name": "The Egyptian Book of the Dead",
+    "slug": "egyptianbookofthedead",
+    "author": "",
+    "year": "-1550",
+    "genre": "",
+    "length": "",
+    "originalLangauge": "Egyptian Heiroglyphics"
+  },
+  {
+    "name": "The Code of Hammurabi",
+    "slug": "codeofhammurabi",
+    "author": "King Hammurabi",
+    "year": "-1754",
+    "genre": "",
+    "length": "",
+    "originalLangauge": "Akkadian Cuneiform"
+  },
+  {
+    "name": "The Art of War",
+    "slug": "artofwar",
+    "author": "Sun Tzu",
+    "year": "-500",
+    "genre": "",
+    "length": "",
+    "originalLangauge": "Chinese language"
+  },
+  {
+    "name": "The Great Learning",
+    "slug": "thegreatlearning",
+    "author": "Confucious",
+    "year": "-500",
+    "genre": "",
+    "length": "",
+    "originalLangauge": "Chinese Language"
+  },
+  {
+    "name": "The Deeds of Divine Augustus",
+    "slug": "deedsofdivineaugustus",
+    "author": "Augustus",
+    "year": "14",
+    "genre": "",
+    "length": "",
+    "originalLangauge": "Latin"
+  },
+  {
+    "name": "Metaphysics",
+    "slug": "metaphysics",
+    "author": "Aristotle",
+    "year": "-350",
+    "genre": "philosophy",
+    "length": "",
+    "originalLangauge": "Greek"
+  },
+  {
+    "name": "The Jewish War",
+    "slug": "thejewishwar",
+    "author": "Flavius Josephus",
+    "year": "75",
+    "genre": "history",
+    "length": "",
+    "originalLangauge": "Greek"
+  },
+  {
+    "name": "Principle Doctrines",
+    "slug": "principledoctrines",
+    "author": "Epicurus",
+    "year": "-270",
+    "genre": "philosophy",
+    "length": "",
+    "originalLangauge": "Greek"
+  },
+  {
+    "name": "The Trojan Women",
+    "slug": "trojanwomen",
+    "author": "Euripides",
+    "year": "-415",
+    "genre": "",
+    "length": "",
+    "originalLangauge": "Greek"
+  },
+  {
+    "name": "Atharvaveda",
+    "slug": "atharvaveda",
+    "author": "",
+    "year": "-1100",
+    "genre": "",
+    "length": "",
+    "originalLangauge": "Vedic Sanskrit"
+  },
+  {
+    "name": "Oedipus The King",
+    "slug": "oedipustheking",
+    "author": "Sophocles",
+    "year": "-430",
+    "genre": "",
+    "length": "",
+    "originalLangauge": "Greek"
+  },
+  {
+    "name": "Ramayana",
+    "slug": "ramayana",
+    "author": "",
+    "year": "",
+    "genre": "",
+    "length": "",
+    "originalLangauge": ""
+  }
+]
